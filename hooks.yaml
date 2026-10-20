@@ -1,0 +1,10 @@
+# Hook formulas. Analytics tracks views per formula and favours winners (70/30 explore/exploit).
+formulas:
+  curiosity_gap: "Open with a surprising claim whose answer is withheld until the end."
+  contrarian: "Open by challenging something everyone believes."
+  nobody_tells_you: "Open with 'the one thing nobody tells you about ...' energy."
+  story_in_medias_res: "Drop the viewer into the most intense moment, then rewind."
+  direct_question: "Open with a personal question that stings or intrigues."
+  stakes_countdown: "State what will be lost/gained and promise the payoff in the final line."
+  secret_reveal: "Promise a hidden truth or forgotten detail."
+  emotion_mirror: "Say out loud the feeling the viewer hides, in one raw sentence."
