@@ -1,0 +1,23 @@
+# ---- Channel brain: edit this, not the code ----
+gemini_model: gemini-2.5-flash      # change if Google renames/retires the model
+language: te                        # te = Telugu, en = English
+voices:
+  te: { female: te-IN-ShrutiNeural, male: te-IN-MohanNeural }
+  en: { female: en-IN-NeerjaNeural, male: en-IN-PrabhatNeural }
+voice_gender: { reel: male, myth: male, tech: female, rhyme: female }
+voice_rate:   { reel: "-8%", myth: "-3%", tech: "+0%", rhyme: "+0%" }
+
+# Movie clips: OFF by default (copyright strikes can kill a channel).
+# Turn on ONLY for clips you own/licensed; drop them in assets/licensed_clips/<theme>/
+use_movie_clips: false
+
+reel_themes: [sad, hardworking, love, friendship, self-belief, failure-to-success, parents]
+myth_seeds:  [Ramayana, Mahabharata, Bhagavatam, Hanuman, Krishna-childhood, Ganesha, Savitri-Satyavan, Prahlada, Panchatantra, Vikramarka-Vetala, Tenali-Rama]
+tech_seeds:  ["artificial intelligence news", "space technology", "electric vehicles", "quantum computing", "robotics", "smartphone tech", "cybersecurity"]
+rhyme_seeds: [animals, rain, moon, fruits, friends, school, colors, festivals]
+
+# weekday 0=Mon .. 6=Sun
+short_rotation: [myth, tech, rhyme, myth, tech, rhyme, myth]
+long_rotation:  [myth, tech, rhyme]
+
+youtube_privacy: public             # use "private" while testing
