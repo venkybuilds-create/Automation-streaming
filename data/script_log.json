@@ -11,5 +11,18 @@
   "dry_run": true,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261107-132701-reel",
+  "stage": "script",
+  "ts": "2026-11-07T13:27:02+00:00",
+  "kind": "reel",
+  "target": "reel",
+  "topic": "love",
+  "formula": "secret_reveal",
+  "lines": 5,
+  "dry_run": true,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
