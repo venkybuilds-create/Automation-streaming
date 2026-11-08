@@ -37,5 +37,18 @@
   "dry_run": true,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261108-042502-long",
+  "stage": "script",
+  "ts": "2026-11-08T04:25:02+00:00",
+  "kind": "myth",
+  "target": "long",
+  "topic": "Panchatantra",
+  "formula": "stakes_countdown",
+  "lines": 5,
+  "dry_run": true,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
