@@ -48,5 +48,15 @@
   "seconds_audio": 14.4,
   "status": "ok",
   "seconds": 3.8
+ },
+ {
+  "run_id": "20261109-135549-reel",
+  "stage": "voice",
+  "ts": "2026-11-09T13:55:50+00:00",
+  "kind": "reel",
+  "voice": "te-IN-MohanNeural",
+  "seconds_audio": 15.1,
+  "status": "ok",
+  "seconds": 4.1
  }
 ]

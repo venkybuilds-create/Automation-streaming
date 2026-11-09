@@ -38,5 +38,13 @@
   "seeds": 7,
   "status": "ok",
   "seconds": 0.6
+ },
+ {
+  "run_id": "20261109-135549-reel",
+  "stage": "research",
+  "ts": "2026-11-09T13:55:49+00:00",
+  "seeds": 7,
+  "status": "ok",
+  "seconds": 0.5
  }
 ]

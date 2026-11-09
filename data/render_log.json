@@ -53,5 +53,16 @@
   "seconds_video": 14.4,
   "status": "ok",
   "seconds": 5.1
+ },
+ {
+  "run_id": "20261109-135549-reel",
+  "stage": "render",
+  "ts": "2026-11-09T13:55:54+00:00",
+  "kind": "reel",
+  "target": "reel",
+  "file": "/home/runner/work/Automation-streaming/Automation-streaming/output/20261109-135549-reel/final.mp4",
+  "seconds_video": 15.1,
+  "status": "ok",
+  "seconds": 5.3
  }
 ]
