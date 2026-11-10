@@ -76,5 +76,18 @@
   "dry_run": true,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261110-031248-short",
+  "stage": "script",
+  "ts": "2026-11-10T03:12:48+00:00",
+  "kind": "tech",
+  "target": "short",
+  "topic": "artificial intelligence news",
+  "formula": "story_in_medias_res",
+  "lines": 5,
+  "dry_run": true,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
