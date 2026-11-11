@@ -102,5 +102,18 @@
   "dry_run": true,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261111-134539-reel",
+  "stage": "script",
+  "ts": "2026-11-11T13:45:40+00:00",
+  "kind": "reel",
+  "target": "reel",
+  "topic": "hardworking",
+  "formula": "secret_reveal",
+  "lines": 5,
+  "dry_run": true,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
