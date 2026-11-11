@@ -89,5 +89,18 @@
   "dry_run": true,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261111-031820-short",
+  "stage": "script",
+  "ts": "2026-11-11T03:18:21+00:00",
+  "kind": "rhyme",
+  "target": "short",
+  "topic": "animals",
+  "formula": "secret_reveal",
+  "lines": 5,
+  "dry_run": true,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
