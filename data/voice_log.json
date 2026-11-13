@@ -97,5 +97,15 @@
   "seconds_audio": 14.4,
   "status": "ok",
   "seconds": 3.3
+ },
+ {
+  "run_id": "20261113-031453-short",
+  "stage": "voice",
+  "ts": "2026-11-13T03:14:53+00:00",
+  "kind": "tech",
+  "voice": "te-IN-ShrutiNeural",
+  "seconds_audio": 14.0,
+  "status": "ok",
+  "seconds": 2.0
  }
 ]

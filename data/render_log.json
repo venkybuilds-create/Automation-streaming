@@ -97,5 +97,16 @@
   "seconds_video": 14.4,
   "status": "ok",
   "seconds": 5.2
+ },
+ {
+  "run_id": "20261113-031453-short",
+  "stage": "render",
+  "ts": "2026-11-13T03:14:55+00:00",
+  "kind": "tech",
+  "target": "short",
+  "file": "/home/runner/work/Automation-streaming/Automation-streaming/output/20261113-031453-short/final.mp4",
+  "seconds_video": 14.0,
+  "status": "ok",
+  "seconds": 6.0
  }
 ]

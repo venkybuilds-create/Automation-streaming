@@ -97,5 +97,16 @@
   "fallback": 5,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261113-031453-short",
+  "stage": "footage",
+  "ts": "2026-11-13T03:14:55+00:00",
+  "kind": "tech",
+  "local": 0,
+  "pexels": 0,
+  "fallback": 5,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
