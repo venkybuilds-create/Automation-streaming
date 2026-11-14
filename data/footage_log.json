@@ -119,5 +119,16 @@
   "fallback": 5,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261114-031554-short",
+  "stage": "footage",
+  "ts": "2026-11-14T03:15:58+00:00",
+  "kind": "rhyme",
+  "local": 0,
+  "pexels": 0,
+  "fallback": 5,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]

@@ -154,5 +154,18 @@
   "dry_run": true,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261114-031554-short",
+  "stage": "script",
+  "ts": "2026-11-14T03:15:55+00:00",
+  "kind": "rhyme",
+  "target": "short",
+  "topic": "colors",
+  "formula": "direct_question",
+  "lines": 5,
+  "dry_run": true,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
