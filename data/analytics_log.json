@@ -54,5 +54,13 @@
   "videos": 0,
   "status": "ok",
   "seconds": 0.1
+ },
+ {
+  "run_id": "20261114-182502-analytics",
+  "stage": "analytics",
+  "ts": "2026-11-14T18:25:02+00:00",
+  "videos": 0,
+  "status": "ok",
+  "seconds": 0.2
  }
 ]
