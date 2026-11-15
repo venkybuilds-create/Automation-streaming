@@ -167,5 +167,18 @@
   "dry_run": true,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261115-031437-short",
+  "stage": "script",
+  "ts": "2026-11-15T03:14:37+00:00",
+  "kind": "myth",
+  "target": "short",
+  "topic": "Ramayana",
+  "formula": "story_in_medias_res",
+  "lines": 5,
+  "dry_run": true,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
