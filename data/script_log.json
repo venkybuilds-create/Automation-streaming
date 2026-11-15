@@ -180,5 +180,18 @@
   "dry_run": true,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261115-042631-long",
+  "stage": "script",
+  "ts": "2026-11-15T04:26:32+00:00",
+  "kind": "tech",
+  "target": "long",
+  "topic": "artificial intelligence news",
+  "formula": "secret_reveal",
+  "lines": 5,
+  "dry_run": true,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
