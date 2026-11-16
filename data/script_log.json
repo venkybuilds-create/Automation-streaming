@@ -206,5 +206,18 @@
   "dry_run": true,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261116-033336-short",
+  "stage": "script",
+  "ts": "2026-11-16T03:33:37+00:00",
+  "kind": "myth",
+  "target": "short",
+  "topic": "Ganesha",
+  "formula": "emotion_mirror",
+  "lines": 5,
+  "dry_run": true,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
