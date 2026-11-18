@@ -187,5 +187,15 @@
   "seconds_audio": 15.1,
   "status": "ok",
   "seconds": 2.8
+ },
+ {
+  "run_id": "20261118-031835-short",
+  "stage": "voice",
+  "ts": "2026-11-18T03:18:36+00:00",
+  "kind": "rhyme",
+  "voice": "te-IN-ShrutiNeural",
+  "seconds_audio": 14.0,
+  "status": "ok",
+  "seconds": 2.7
  }
 ]
