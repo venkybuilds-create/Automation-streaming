@@ -258,5 +258,18 @@
   "dry_run": true,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261119-032017-short",
+  "stage": "script",
+  "ts": "2026-11-19T03:20:17+00:00",
+  "kind": "myth",
+  "target": "short",
+  "topic": "Mahabharata",
+  "formula": "direct_question",
+  "lines": 5,
+  "dry_run": true,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
