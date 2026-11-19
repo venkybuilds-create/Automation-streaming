@@ -271,5 +271,18 @@
   "dry_run": true,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261119-134840-reel",
+  "stage": "script",
+  "ts": "2026-11-19T13:48:41+00:00",
+  "kind": "reel",
+  "target": "reel",
+  "topic": "love",
+  "formula": "emotion_mirror",
+  "lines": 5,
+  "dry_run": true,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
