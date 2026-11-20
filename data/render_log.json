@@ -229,5 +229,16 @@
   "seconds_video": 15.1,
   "status": "ok",
   "seconds": 5.5
+ },
+ {
+  "run_id": "20261120-031529-short",
+  "stage": "render",
+  "ts": "2026-11-20T03:15:31+00:00",
+  "kind": "tech",
+  "target": "short",
+  "file": "/home/runner/work/Automation-streaming/Automation-streaming/output/20261120-031529-short/final.mp4",
+  "seconds_video": 14.0,
+  "status": "ok",
+  "seconds": 3.8
  }
 ]
