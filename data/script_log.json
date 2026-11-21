@@ -297,5 +297,18 @@
   "dry_run": true,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261121-100143-short",
+  "stage": "script",
+  "ts": "2026-11-21T10:01:43+00:00",
+  "kind": "rhyme",
+  "target": "short",
+  "topic": "festivals",
+  "formula": "stakes_countdown",
+  "lines": 5,
+  "dry_run": true,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
