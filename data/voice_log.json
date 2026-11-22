@@ -247,5 +247,15 @@
   "seconds_audio": 15.1,
   "status": "ok",
   "seconds": 2.5
+ },
+ {
+  "run_id": "20261122-042817-long",
+  "stage": "voice",
+  "ts": "2026-11-22T04:28:18+00:00",
+  "kind": "rhyme",
+  "voice": "te-IN-ShrutiNeural",
+  "seconds_audio": 14.0,
+  "status": "ok",
+  "seconds": 3.0
  }
 ]

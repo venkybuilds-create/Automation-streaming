@@ -323,5 +323,18 @@
   "dry_run": true,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261122-042817-long",
+  "stage": "script",
+  "ts": "2026-11-22T04:28:18+00:00",
+  "kind": "rhyme",
+  "target": "long",
+  "topic": "friends",
+  "formula": "direct_question",
+  "lines": 5,
+  "dry_run": true,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
