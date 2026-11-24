@@ -287,5 +287,15 @@
   "seconds_audio": 15.1,
   "status": "ok",
   "seconds": 6.9
+ },
+ {
+  "run_id": "20261124-124633-short",
+  "stage": "voice",
+  "ts": "2026-11-24T12:46:34+00:00",
+  "kind": "tech",
+  "voice": "te-IN-ShrutiNeural",
+  "seconds_audio": 14.0,
+  "status": "ok",
+  "seconds": 9.3
  }
 ]
