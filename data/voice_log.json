@@ -317,5 +317,15 @@
   "seconds_audio": 15.1,
   "status": "ok",
   "seconds": 2.4
+ },
+ {
+  "run_id": "20261126-111538-short",
+  "stage": "voice",
+  "ts": "2026-11-26T11:15:38+00:00",
+  "kind": "myth",
+  "voice": "te-IN-MohanNeural",
+  "seconds_audio": 14.4,
+  "status": "ok",
+  "seconds": 5.3
  }
 ]
