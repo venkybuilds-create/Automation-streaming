@@ -262,5 +262,13 @@
   "seeds": 7,
   "status": "ok",
   "seconds": 0.4
+ },
+ {
+  "run_id": "20261127-110852-short",
+  "stage": "research",
+  "ts": "2026-11-27T11:08:52+00:00",
+  "seeds": 7,
+  "status": "ok",
+  "seconds": 0.6
  }
 ]
