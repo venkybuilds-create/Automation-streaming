@@ -440,5 +440,18 @@
   "dry_run": true,
   "status": "ok",
   "seconds": 0.0
+ },
+ {
+  "run_id": "20261127-213414-reel",
+  "stage": "script",
+  "ts": "2026-11-27T21:34:15+00:00",
+  "kind": "reel",
+  "target": "reel",
+  "topic": "self-belief",
+  "formula": "nobody_tells_you",
+  "lines": 5,
+  "dry_run": true,
+  "status": "ok",
+  "seconds": 0.0
  }
 ]
